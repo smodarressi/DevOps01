@@ -1,0 +1,9 @@
+Number of Volumes, Size of Each Volume, Free Space on Each Volume
+Filesystem      Size  Used Avail Use% Mounted on
+udev            1.5G     0  1.5G   0% /dev
+tmpfs           294M  4.8M  289M   2% /run
+/dev/sda1        59G  5.6G   50G  11% /
+tmpfs           1.5G   59M  1.4G   4% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           1.5G     0  1.5G   0% /sys/fs/cgroup
+tmpfs           294M   64K  294M   1% /run/user/1000
